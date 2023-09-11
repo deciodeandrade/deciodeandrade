@@ -23,4 +23,4 @@
   <img align="center" alt="Decio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deciodeandrade&bg_color=000000&color=ffffff&line=ff9500&point=121ca5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deciodeandrade&bg_color=000000&color=eaa9e5&line=7d01b7&point=1fd8db&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
